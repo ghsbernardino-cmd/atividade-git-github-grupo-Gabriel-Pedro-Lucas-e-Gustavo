@@ -10,7 +10,7 @@
 *Converte a resposta para letras minúsculas. Assim, se a pessoa digitar "S" ou "s", o Python entenderá da mesma forma.
 
 ## Commit extra 
-ajustes no readme e requisitos
+ajustes no readme e requisitos, estavam como arquivos .txt e foram ajustados para .md
 
 ## Commit extra
-ajuste no Readme
+ajuste no Readme, acrescentando funções git que foram utilizadas o projeto 

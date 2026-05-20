@@ -1,7 +1,7 @@
 alunos = []
 
 print("SISTEMA DE CADASTRO DE ALUNOS ")
-
+#loop principal
 while True:
     aluno = {
         "nome": input("\nNome: "),
@@ -12,8 +12,7 @@ while True:
     print("Cadastrado com sucesso!")
     
 
-    continuar = input("\nDeseja cadastrar outro aluno? (s/n): ").strip().lower()
+    continuar = input("\nDeseja cadastrar outro aluno? (s/n): ").strip().lower() #pergunta se o usuario va continuar com os cadastros
     if continuar != 's':
         print("\nCadastro encerrado. Até logo!")
-
         break
