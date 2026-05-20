@@ -17,3 +17,9 @@ ajuste no Readme, acrescentando funções git que foram utilizadas o projeto
 
 ## Commit 6
 atualizando comandos git no reamde e realizando os testes da branch e inserindo comentarios no main.py
+
+## commit 7
+commit de merge 
+
+## commit 8
+commit final mudanças estilisticas no redme e ajustes no diario
