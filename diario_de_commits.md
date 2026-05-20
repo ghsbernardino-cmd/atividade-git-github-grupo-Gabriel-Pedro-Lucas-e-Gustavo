@@ -11,3 +11,6 @@
 
 ## Commit extra 
 ajustes no readme e requisitos
+
+## Commit extra
+ajuste no Readme

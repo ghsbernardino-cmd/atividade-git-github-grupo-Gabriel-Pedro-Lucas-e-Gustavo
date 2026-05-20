@@ -12,7 +12,9 @@
 
 ## comandos git utilizados
 git init 
-git add main.py
+git add .
 git commit -m 
+gh repo create
+git push
 
 Alunos (Gabriel Bernardino, Pedro vecchio vecchio, Gustavo Dobberstein, Lucas motter)
