@@ -8,3 +8,6 @@
 ## Commit 3 continuidade
 *pergunta ao usuario se ele quer continuar e cadastrar mais alguém. 
 *Converte a resposta para letras minúsculas. Assim, se a pessoa digitar "S" ou "s", o Python entenderá da mesma forma.
+
+## Commit extra 
+ajustes no readme e requisitos
