@@ -8,3 +8,6 @@ while True:
         "idade": input("Idade: "),
         "turma": input("Turma: ")
     }
+    alunos.append(aluno)
+    print("Cadastrado com sucesso!")
+    
