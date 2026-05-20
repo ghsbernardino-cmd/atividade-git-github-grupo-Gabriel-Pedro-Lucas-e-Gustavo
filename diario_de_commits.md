@@ -9,8 +9,11 @@
 *pergunta ao usuario se ele quer continuar e cadastrar mais alguém. 
 *Converte a resposta para letras minúsculas. Assim, se a pessoa digitar "S" ou "s", o Python entenderá da mesma forma.
 
-## Commit extra 
+## Commit 4 
 ajustes no readme e requisitos, estavam como arquivos .txt e foram ajustados para .md
 
-## Commit extra
+## Commit 5
 ajuste no Readme, acrescentando funções git que foram utilizadas o projeto 
+
+## Commit 6
+atualizando comandos git no reamde e realizando os testes da branch e inserindo comentarios no main.py

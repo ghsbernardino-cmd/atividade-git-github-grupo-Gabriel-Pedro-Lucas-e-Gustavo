@@ -16,5 +16,9 @@ git add .
 git commit -m 
 gh repo create
 git push
+git branch -d
+git checkout main
+git merge
+
 
 Alunos (Gabriel Bernardino, Pedro vecchio vecchio, Gustavo Dobberstein, Lucas motter)
