@@ -11,3 +11,9 @@ while True:
     alunos.append(aluno)
     print("Cadastrado com sucesso!")
     
+
+    continuar = input("\nDeseja cadastrar outro aluno? (s/n): ").strip().lower()
+    if continuar != 's':
+        print("\nCadastro encerrado. Até logo!")
+
+        break
